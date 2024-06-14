@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818038253185",
+    "project_id": "demoapp-ea787",
+    "storage_bucket": "demoapp-ea787.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818038253185:android:d6a4f2cea6900e555c8f80",
+        "android_client_info": {
+          "package_name": "com.varughese.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnW7ngLyXvFZvM7dAPy71WY1Jm9S7QexA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
